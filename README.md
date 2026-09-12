@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hey, I'm Yash Dhawale
 
-<!--
-**yashcollege501-cloud/yashcollege501-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 MCA Student | Python Developer | Full Stack Development
 
-Here are some ideas to get you started:
+> Turning ideas into real-world applications 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+- 🎓 MCA Student
+- 💻 Learning Python 
+- 🌐 Interested in Full Stack Development
+- 🚀 Turning ideas into real-world applications
+
+```python
+class Yash:
+    name = "Yash Dhawale"
+    education = "MCA Student"
+    role = "Python Developer"
+    
+    skills = [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "MySQL",
+    ]
+
+    currently_learning = [
+        "Full Stack Development"
+    ]
+
+    goal = "Build software that solves real-world problems"
